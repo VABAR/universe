@@ -2,5 +2,9 @@
     {
         "package": "vibass",
         "url": "https://github.com/VABAR/vibass"
+    },
+    {
+        "package": "INLA",
+        "url": "https://inla.r-inla-download.org/R/stable"
     }
 ]
